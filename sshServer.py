@@ -1,9 +1,9 @@
 #!/usr/bin/python
 #title			:ssh_botnet.py
 #description	:SIMPLE SSH BOTNET YET POWERFULL, MULTICLENT SUPPORTED AND MULTIPLATFORM, ONE SSH TO RULE THEM ALL ;)
-#author			:m5a01 & haxorgirl
-#date			:2017-10-26
-#version		:1.0.0
+#author			:m5a01 
+#date			   :2017-10-26
+#version		   :1.0.0
 #usage			:python ssh_botnet.py
 #notes			:
 #python_version	:2.6.6
